@@ -1,11 +1,10 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
-<a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
-</a>
-Made with [contributors-img](https://contrib.rocks).
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![GitHub repo size](https://img.shields.io/github/repo-size/devmdmohiuddin/hover-dropdown)
+![GitHub all releases](https://img.shields.io/github/downloads/devmdmohiuddin/hover-dropdown/total)
+![GitHub language count](https://img.shields.io/github/languages/count/devmdmohiuddin/hover-dropdown)
+![GitHub](https://img.shields.io/github/license/devmdmohiuddin/hover-dropdown)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/devmdmohiuddin/hover-dropdown)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/devmdmohiuddin/hover-dropdown)
+![GitHub Repo stars](https://img.shields.io/github/stars/devmdmohiuddin/hover-dropdown)
 # Hover Dropdown
 
 This is hove dropdown simple project.
