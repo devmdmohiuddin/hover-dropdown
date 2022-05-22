@@ -13,6 +13,6 @@ This is hove dropdown simple project.
 ## Clone
 
 ```
-  git clone repo_link
+  git clone this_repository
 ```
 
